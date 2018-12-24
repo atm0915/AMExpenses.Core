@@ -397,4 +397,6 @@ ASALocalRun/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-/AMExpenses.Core/Database/AMExpensesConnectionString.cs
+
+/AMExpenses.Core/Database/AMExpensesDbContext.cs
+/AMExpenses.Core/Migrations/
